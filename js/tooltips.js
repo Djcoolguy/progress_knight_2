@@ -55,6 +55,7 @@ const tooltips = {
     "Productivity": "Learn to procrastinate less at work and receive more job experience per day.",
     "Bargaining": "Study the tricks of the trade and persuasive skills to lower any type of expense.",
     "Meditation": "Fill your mind with peace and tranquility to tap into greater happiness from within.",
+    "Experience": "After working for a while you start to work faster and better.",
 
     // Combat
     "Strength": "Condition your body and strength through harsh training. Stronger individuals are paid more in the military.",

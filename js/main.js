@@ -17,6 +17,7 @@ function addMultipliers() {
         task.xpMultipliers.push(getHappiness)
         task.xpMultipliers.push(getDarkMatterXpGain)
         task.xpMultipliers.push(getBindedTaskEffect("Dark Influence"))
+        task.xpMultipliers.push(getBindedTaskEffect("Experience"))
         task.xpMultipliers.push(getBindedTaskEffect("Demon Training"))
         task.xpMultipliers.push(getBindedTaskEffect("Void Influence"))
         task.xpMultipliers.push(getBindedTaskEffect("Parallel Universe"))
